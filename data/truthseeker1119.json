@@ -1,0 +1,30 @@
+{
+    "truthseeker1119": [
+        "honkifyoulovejesus91", 
+        "conspiracy.theorist1", 
+        "frequency13", 
+        "tonyim8", 
+        "re_learn_everything", 
+        "wakeupnow2222", 
+        "transcendent_touch", 
+        "shirley_itmuststop", 
+        "rebellionderfreiheit", 
+        "so_werden_wir_verarscht"
+    ], 
+    "re_learn_everything": [
+        "transcendent_touch"
+    ], 
+    "wakeupnow2222": [
+        "transcendent_touch"
+    ], 
+    "so_werden_wir_verarscht": [
+        "rebellionderfreiheit"
+    ],
+    "transcendent_touch": [
+        "re_learn_everything",
+        "wakeupnow2222"    
+    ], 
+    "rebellionderfreiheit": [
+        "so_werden_wir_verarscht"
+    ]
+}

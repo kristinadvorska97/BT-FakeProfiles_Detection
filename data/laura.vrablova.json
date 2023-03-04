@@ -1,0 +1,81 @@
+{
+    "laura.vrablova": [
+        "stalednicka",
+        "petravrablova_",
+        "alex.vrabel",
+        "julietka_kubalcova",
+        "sebastianpavlus",
+        "alx.opa",
+        "obrcianpato",
+        "jadranka_re",
+        "alex_vrabel_",
+        "samueldikos_",
+        "l.mihalcatinova",
+        "anna_demiger",
+        "klara_kotrbancova",
+        "henrichhlavina",
+        "r_vrablova",
+        "tobiashrobarik_",
+        "matej.moravcik.71"
+    ],
+    "petravrablova_": [
+        "stalednicka",
+        "alex.vrabel",
+        "obrcianpato",
+        "alex_vrabel_",
+        "samueldikos_",
+        "l.mihalcatinova",
+        "r_vrablova",
+        "matej.moravcik.71"
+    ],
+    "alex.vrabel": [
+        "petravrablova_",
+        "sebastianpavlus",
+        "tobiashrobarik_"
+    ],
+    "sebastianpavlus": [
+        "alex.vrabel",
+        "tobiashrobarik_"
+    ],
+    "alx.opa": [
+        "jadranka_re"
+    ],
+    "obrcianpato": [
+        "petravrablova_",
+        "anna_demiger"
+    ],
+    "jadranka_re": [
+        "alx.opa"
+    ],
+    "alex_vrabel_": [
+        "petravrablova_",
+        "sebastianpavlus",
+        "samueldikos_",
+        "l.mihalcatinova",
+        "r_vrablova",
+        "tobiashrobarik_",
+        "matej.moravcik.71"
+    ],
+    "samueldikos_": [
+        "alex_vrabel_"
+    ],
+    "anna_demiger": [
+        "obrcianpato"
+    ],
+    "r_vrablova": [
+        "stalednicka",
+        "petravrablova_",
+        "alex_vrabel_",
+        "samueldikos_",
+        "l.mihalcatinova",
+        "matej.moravcik.71"
+    ],
+    "tobiashrobarik_": [
+        "sebastianpavlus"
+    ],
+    "matej.moravcik.71": [
+        "petravrablova_",
+        "alex_vrabel_",
+        "r_vrablova"
+    ]
+}
