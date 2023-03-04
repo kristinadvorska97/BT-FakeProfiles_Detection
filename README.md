@@ -1,6 +1,6 @@
 # BT-FakeProfiles_Detection
 
-Python application aimed at analysis of social networks creation and properties (Comenius University FMPH - 2019).
+Python application aimed at analysis of social networks creation and properties.
 
 ### DataOfInstagram.py 
 Personal Instagram scrapper used for data collection from Instagram. Program collects users from Instagram profile and saves them to JSON file. 
